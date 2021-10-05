@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Created on Wed Jul 28 19:00:38 2021
-
+This is a client
 @author: xngu0004
 """
 
